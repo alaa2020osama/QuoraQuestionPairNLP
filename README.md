@@ -1,5 +1,5 @@
 # QuoraQuestionPairNLP
-Quora Quetions here was used to train 3 models:
+Quora Quetions here was used to train 4 models:
 1. a pretrained BERT model (trainable LSTM layer added).
 2. fine tuning on this BERT model --> validation accuracy: 93%
 3. Naive Bayes model
